@@ -23,7 +23,7 @@
     <truststorePassword></truststorePassword>
     <agentAuth></agentAuth>
     <agentHost>localhost</agentHost>
-    <httpPort>90002</httpPort>
+    <httpPort>9002</httpPort>
     <appNode>Practice.module-AppNode</appNode>
     <osgiPort></osgiPort>
     <appSpaceDesc></appSpaceDesc>
@@ -31,16 +31,16 @@
     <tibco.Home>D:\TIBCO_HOME_6.7.0/</tibco.Home>
     <externalProfile>false</externalProfile>
     <keystorePassword></keystorePassword>
-    <backupLocation></backupLocation>
     <agentPassword></agentPassword>
+    <backupLocation></backupLocation>
     <skipTests>false</skipTests>
-    <appNodeDesc></appNodeDesc>
     <project.type>AppSpace</project.type>
+    <appNodeDesc></appNodeDesc>
     <failIfNoTests>false</failIfNoTests>
     <agentSSL>false</agentSSL>
     <agentUsername></agentUsername>
-    <domain>Practice.module-Domain</domain>
     <deployToAdmin>true</deployToAdmin>
+    <domain>Practice.module-Domain</domain>
   </properties>
   <build>
     <plugins>
